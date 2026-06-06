@@ -1,81 +1,136 @@
-# 💀 ToxicRootVip | 0xRichtofen
+<h1 align="center">Hi, I'm Amin 👋</h1>
 
-## Who Am I
-
-Penetration Tester | Bug Bounty Hunter | Security Researcher
-
-I specialize in subdomain enumeration, reconnaissance automation, and finding vulnerabilities before the bad guys do.
-
-## Certifications
-
-| Certification | Issuer |
-|---------------|--------|
-| OSCP | Offensive Security |
-| PNPT | TCM Security |
-| eCPPT | eLearnSecurity |
-| CEH | EC-Council |
-| Security+ | CompTIA |
-
-*Note: Replace with your actual certifications*
-
-## Technical Skills
-
-### Primary Focus
-- Web Application Penetration Testing
-- Network Security Assessment
-- Subdomain Enumeration
-- Reconnaissance Automation
-- Vulnerability Research
-
-### Loved Programming Languages
-
-| Language | Purpose |
-|----------|---------|
-| Bash | Automation scripts, recon tools |
-| Python | Exploit development, tooling |
-| Go | Building fast security tools |
-| JavaScript | Web app testing, XSS research |
-
-### Tools I Master
-
-- Burp Suite Professional
-- Nmap / Masscan
-- Metasploit Framework
-- BloodHound
-- CrackMapExec
-- All subdomain enumeration tools
-
-## Operating Systems
-
-- Kali Linux (Daily driver)
-- Parrot OS
-- Windows 10/11 (for AD testing)
-
-## Current Focus
-
-- Building automation scripts for reconnaissance
-- Hunting bug bounties on HackerOne and Bugcrowd
-- Studying for advanced certifications
-- Contributing to open source security tools
-
-## Connect With Me
-
-- GitHub: [@ToxicRootVip](https://github.com/ToxicRootVip)
-- Twitter: [@0xRichtofen](https://twitter.com/0xRichtofen)
-- LinkedIn: [0xRichtofen](https://linkedin.com/in/0xrichtofen)
-- HackerOne: [0xRichtofen](https://hackerone.com/0xrichtofen)
-- Bugcrowd: [0xRichtofen](https://bugcrowd.com/0xrichtofen)
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ToxicRootVip&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicRootVip&layout=compact&theme=dark)
-
-## Quote I Live By
-
-"Find the vulnerability before the adversary does."
+<p align="center">
+Network Engineer • Penetration Tester • Security Researcher
+</p>
 
 ---
 
-*Always learning. Always hacking ethically.*
+## About Me
+
+- 🎯 Focused on Web Application Security & Penetration Testing
+- 🔍 Interested in Bug Hunting, Red Teaming, and Security Research
+- 🌐 Background in Network Engineering and Enterprise Security
+- 🐧 Linux enthusiast
+- 📚 Lifelong learner with a strong passion for understanding systems from first principles
+- ⚡ Currently improving my offensive security and exploit development skills
+
+---
+
+## Certifications
+
+### Offensive Security
+
+- OSCP
+- OSWE
+- OSWA
+
+### INE / eLearnSecurity
+
+- eJPT
+- eWPT
+- eWPTX
+- eCPPT
+- eCIR
+- eNDP
+- eWDP
+- eCRE
+
+### Cisco
+
+- CCNA
+- CCNP SCOR
+- CCNP Web Application Security
+
+### CompTIA
+
+- Security+
+- Linux+
+- Network+
+- Server+
+- ITF+
+
+### EC-Council
+
+- CEH
+- CND
+- WAHS
+- CHFI
+
+### LogRhythm
+
+- LRPA
+- LRSA
+
+---
+
+## Technical Skills
+
+### Offensive Security
+
+```text
+Web Application Security
+API Security
+Thick Client Testing
+Active Directory
+Internal Assessments
+External Assessments
+Bug Bounty Hunting
+```
+
+### Networking
+
+```text
+Routing & Switching
+Enterprise Security
+Network Troubleshooting
+VPN Technologies
+Firewall Management
+```
+
+### Technologies
+
+```text
+Linux
+Python
+Bash
+PHP
+Docker
+Git
+MySQL
+Burp Suite
+Nmap
+Metasploit
+Wireshark
+```
+
+---
+
+## Current Focus
+
+- Advanced Web Exploitation
+- Source Code Review
+- Red Team Operations
+- Security Automation
+- Vulnerability Research
+
+---
+
+## Philosophy
+
+> Understanding how things work is more important than memorizing tools.
+
+---
+
+## Connect
+
+- GitHub: https://github.com/YOUR_USERNAME
+- HackerOne: https://hackerone.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+
+---
+
+<p align="center">
+Security is not about running tools.<br>
+It's about understanding systems.
+</p>
