@@ -8,12 +8,12 @@ Network Engineer • Penetration Tester • Security Researcher
 
 ## About Me
 
-- 🎯 Focused on Web Application Security & Penetration Testing
-- 🔍 Interested in Bug Hunting, Red Teaming, and Security Research
-- 🌐 Background in Network Engineering and Enterprise Security
-- 🐧 Linux enthusiast
-- 📚 Lifelong learner with a strong passion for understanding systems from first principles
-- ⚡ Currently improving my offensive security and exploit development skills
+- Focused on Web Application Security & Penetration Testing
+- Interested in Bug Hunting, Red Teaming, and Security Research
+- Background in Network Engineering and Enterprise Security
+- Linux enthusiast
+- Lifelong learner with a strong passion for understanding systems from first principles
+- Currently improving my offensive security and exploit development skills
 
 ---
 
@@ -48,30 +48,6 @@ Network Engineer • Penetration Tester • Security Researcher
 
 
 ---
-
-## Technical Skills
-
-### Offensive Security
-
-```text
-Web Application Security
-API Security
-Thick Client Testing
-Active Directory
-Internal Assessments
-External Assessments
-Bug Bounty Hunting
-```
-
-### Networking
-
-```text
-Routing & Switching
-Enterprise Security
-Network Troubleshooting
-VPN Technologies
-Firewall Management
-```
 
 ### Technologies
 
@@ -109,9 +85,9 @@ Wireshark
 
 ## Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
-- HackerOne: https://hackerone.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- GitHub: https://github.com/toxicrootvip
+- instagram: https://hackerone.com/ameen_notfound
+- LinkedIn: https://linkedin.com/in/ameen-algharabeh
 
 ---
 
