@@ -1,4 +1,9 @@
 <h1 align="center">Hi, I'm Amin 👋</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ToxicRootVip/ToxicRootVip/refs/heads/main/giphy.gif" alt="Security Banner">
+</p>
+
+---
 
 <p align="center">
 Network Engineer • Penetration Tester • Security Researcher
