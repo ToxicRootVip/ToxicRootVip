@@ -32,8 +32,6 @@ Network Engineer • Penetration Tester • Security Researcher
 - eWPTX
 - eCPPT
 - eCIR
-- eNDP
-- eWDP
 - eCRE
 
 ### Cisco
@@ -47,20 +45,7 @@ Network Engineer • Penetration Tester • Security Researcher
 - Security+
 - Linux+
 - Network+
-- Server+
-- ITF+
 
-### EC-Council
-
-- CEH
-- CND
-- WAHS
-- CHFI
-
-### LogRhythm
-
-- LRPA
-- LRSA
 
 ---
 
